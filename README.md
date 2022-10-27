@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   <a href="mailto: yalini.nadar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
+<!--   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
   <img src="https://komarev.com/ghpvc/?username=YaliniNadar&style=flat-square&color=blue" alt=""/>
 </div>
