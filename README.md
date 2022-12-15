@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### My Projects :
+### 💻 My Projects :
 1. [DateNite](https://github.com/YaliniNadar/DateNite)
 2. [Cinema E-Booking](https://github.com/YaliniNadar/Cinema-E-Booking)
 3. [Movie Discovery App](https://github.com/YaliniNadar/Movie-Discovery-App)
