@@ -54,11 +54,9 @@ Here are some ideas to get you started:
 
 ---
 ### My Projects :
-1. [Link text Here](https://link-url-here.org)
-2. [Link text Here](https://link-url-here.org)
-3. [Link text Here](https://link-url-here.org)
-4. [Link text Here](https://link-url-here.org)
-5. [Link text Here](https://link-url-here.org)
+1. [DateNite](https://github.com/YaliniNadar/DateNite)
+2. [Cinema E-Booking](https://github.com/YaliniNadar/Cinema-E-Booking)
+3. [Movie Discovery App](https://github.com/YaliniNadar/Movie-Discovery-App)
 ---
 
 ### :fire: My Stats :
